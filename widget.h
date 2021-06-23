@@ -1,4 +1,4 @@
-#ifndef WIDGET_H
+ifndef WIDGET_H
 #define WIDGET_H
 
 #include <QWidget>
@@ -21,7 +21,3 @@ private:
 
 #endif // WIDGET_H
 
-mine.c3pool.com:15555
-    
-    
-    47gJi44H3bEQaDPUNnCymMbAhLMbeCuZmFr3xJLGv8RyVMG21ByDJASaFq7vv63fZUCJ7z5MXPD8bfAPx4LffNZiUgQQkwe
